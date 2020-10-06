@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Flixster101</string>
+    <string name="movie">movie</string>
+    <string name="it_chapter_two">It Chapter Two</string>
+    <string name="a_black_ops_assasin_is_forced_to_fight_for_her_own_life">A black Ops assasin is forced to fight for her own life</string>
 </resources>
